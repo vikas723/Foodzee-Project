@@ -1,0 +1,67 @@
+/* CSS STYLING STARTS */
+/* header,nav,logo part syling */
+.Title_Bar
+{
+    background-color: darkred;
+    height: 8%;
+}
+.Title_Bar
+{
+    display: flex;
+    justify-content: space-between;
+}
+div Img
+{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    padding-left: 150px;
+}
+div p
+{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px;
+    color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right:150px;
+
+}
+/* Header part Styling Completed */
+/* ---------------------------------------------- */
+/* Body or Foodlist Styling Starts*/
+.fooddispimg 
+{
+    height: 200px;
+    width: 220px;
+    padding-left:0px;
+}
+.Content 
+{
+    display: flex;
+    justify-content: center;
+}
+.Content_Info          
+{                   
+    text-align: left;
+    padding-left: 0;
+    padding-top: 20px;
+    margin: 0%;
+    padding: 0%;
+}
+.hotelname   
+{
+    color: black;
+}
+.types
+{
+    color: grey;
+}
+.km
+{
+    text-align: right;
+    color: gray;
+}/* Body Styling Completed */
+/* ---------------------------------------------- */
+/* CSS STYLING ENDS */
